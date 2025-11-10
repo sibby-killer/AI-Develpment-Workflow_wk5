@@ -24,10 +24,10 @@
 
 ## 📊 Submission Components
 
-1. **Part 1:** Short Answer Questions (30 points) - [In Progress]
-2. **Part 2:** Case Study Application (40 points) - [In Progress]
-3. **Part 3:** Critical Thinking (20 points) - [In Progress]
-4. **Part 4:** Reflection & Workflow Diagram (10 points) - ✅ Complete
+1. **Part 1:** Short Answer Questions (30 points) 
+2. **Part 2:** Case Study Application (40 points) 
+3. **Part 3:** Critical Thinking (20 points) 
+4. **Part 4:** Reflection & Workflow Diagram (10 points) 
 
 ## 🚀 How to View
 
@@ -44,7 +44,8 @@
 ---
 
 **Submitted to:** PLP Academy  
-**Date:** [Add submission date]
+**Date:** [10/11/2025]
+
 
 
 
